@@ -1,11 +1,9 @@
 # design-patterns
 Yet an another design patterns explanation page.
 
-This page is desinged to gather and explain in detail the IT related design patterns.
+This page is desinged to gather and explain design patterns detail.
 
-The page try to explain practically those patterns.
-
-It means will try to create some workable application in step-by-step manner.
+The page have to explain practically those patterns in step-by-step manner.
 
 Author: szaszgy@itarchitect.hu
 
